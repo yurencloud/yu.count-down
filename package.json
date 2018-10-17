@@ -1,0 +1,33 @@
+{
+  "name": "yu.count-down",
+  "version": "1.0.1",
+  "description": "count down util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "yu.count-down",
+    "count-down",
+    "yurencloud",
+    "yuren",
+    "yu",
+    "mackwang",
+    "yurencloud.com"
+  ],
+  "author": {
+    "name": "mackwang",
+    "email": "641212003@qq.com",
+    "url": "http://www.yurencloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurencloud/yu.count-down.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2",
+    "yu.event-bus": "^1.0.1",
+    "yu.object": "^1.0.2"
+  }
+}
